@@ -1,0 +1,15 @@
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\Kyba.exe
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\Kyba.deps.json
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\Kyba.runtimeconfig.json
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\Kyba.dll
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\ref\Kyba.dll
+C:\Projetos de Desenvolvimento\Dev\Kyba\bin\Debug\net6.0\Kyba.pdb
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.csproj.AssemblyReference.cache
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.AssemblyInfoInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.AssemblyInfo.cs
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.csproj.CoreCompileInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.dll
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\ref\Kyba.dll
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.pdb
+C:\Projetos de Desenvolvimento\Dev\Kyba\obj\Debug\net6.0\Kyba.genruntimeconfig.cache
